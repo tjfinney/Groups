@@ -1,6 +1,6 @@
 # Groups
 
-This is a repository for my article named "How to discover textual groups." It includes data matrices and distance matrices for a number of example data sets:
+This is a data repository associated with an article named "How to discover textual groups." It includes data matrices and distance matrices for a number of example data sets:
 
 * distances between cities
 * well defined clusters
