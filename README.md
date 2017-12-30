@@ -8,3 +8,5 @@ This is a data repository associated with an article named "How to discover text
 * textual variants in Mark (INTF).
 
 It also includes R scripts for analyzing the data sets and various kinds of analysis results.
+
+[![DOI](https://zenodo.org/badge/115776903.svg)](https://zenodo.org/badge/latestdoi/115776903)
