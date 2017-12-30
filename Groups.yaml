@@ -1,0 +1,88 @@
+---
+references:
+- id: finney_ancient_1999-1
+  type: thesis
+  title: The Ancient Witnesses of the Epistle to the Hebrews
+  publisher: Murdoch University
+  genre: PhD
+  URL: 'http://purl.org/tfinney/PhD/'
+  author:
+    - family: Finney
+      given: Timothy J.
+  issued:
+    date-parts:
+      - - 1999
+
+- id: finney_analysis_2011-1
+  type: webpage
+  title: Analysis of Textual Variation
+  URL: 'http://purl.org/tfinney/ATV/'
+  author:
+    - family: Finney
+      given: Timothy J.
+  issued:
+    date-parts:
+      - - 2011
+  accessed:
+    date-parts:
+      - - '2017'
+        - 1
+        - 15
+
+- id: finney_mapping_2010
+  type: article-journal
+  title: Mapping Textual Space
+  container-title: 'TC: A Journal of Biblical Textual Criticism'
+  volume: '15'
+  URL: 'http://rosetta.reltech.org/TC/v15/Mapping/'
+  author:
+    - family: Finney
+      given: Timothy J.
+  issued:
+    date-parts:
+      - - 2010
+  accessed:
+    date-parts:
+      - - '2017'
+        - 9
+        - 11
+
+- id: thorpe_multivariate_2002
+  type: article-journal
+  title: Multivariate Statistical Analysis for Manuscript Classification
+  container-title: 'TC: A Journal of Biblical Textual Criticism'
+  volume: '7'
+  URL: 'http://rosetta.reltech.org/TC/v07/Thorpe2002.html'
+  author:
+    - family: Thorpe
+      given: J. C.
+  issued:
+    date-parts:
+      - - 2002
+  accessed:
+    date-parts:
+      - - '2017'
+        - 9
+        - 11
+
+- id: aland_greek_1983
+  type: book
+  title: The Greek New Testament
+  publisher: United Bible Societies
+  edition: 4th rev
+  editor:
+    - family: Aland
+      given: Barbara
+    - family: Aland
+      given: Kurt
+    - family: Karavidopoulos
+      given: Johannes
+    - family: Martini
+      given: Carlo M.
+    - family: Metzger
+      given: Bruce M.
+  issued:
+    date-parts:
+      - - 1983
+  publisher-place: Stuttgart
+...
