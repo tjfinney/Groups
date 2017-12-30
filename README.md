@@ -1,2 +1,8 @@
 # Groups
-Data repository for "How to discover textual groups"
+
+This is a data repository for my article named "How to discover textual groups." It includes data matrices and distance matrices for a number of example data sets:
+
+* distances between cities
+* well defined clusters
+* textual variants in Mark (UBS)
+* textual variants in Mark (INTF).
