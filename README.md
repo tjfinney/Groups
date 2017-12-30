@@ -6,3 +6,5 @@ This is a data repository for my article named "How to discover textual groups."
 * well defined clusters
 * textual variants in Mark (UBS)
 * textual variants in Mark (INTF).
+
+It also includes R scripts for analyzing the data sets and various kinds of analysis results.
